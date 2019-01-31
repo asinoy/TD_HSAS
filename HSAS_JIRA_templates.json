@@ -15,13 +15,13 @@
             "issuetype-field": "Bug",
             "name": "BUG TEMPLATE",
             "projects-field": "",
-            "text": "* Bug Summary*\n_\"Enter summary of the problem here\"._\n\n*Steps to Reproduce*\n- Step 1:\n- Step 2:\n- Step 3:\n\n*Expected Behaviour*\n_\"Enter what should happen here.\"_\n\n*Additional Details*\n- \"Enter any other details such as examples, links to requirements, etc. \"\n- \"Any criteria that might help with fixing the problem. Attach screenshots if possible. More detail is better.</TI>\"\n\n*Workaround*\n- If there is a way to work around the problem, place that information here."
+            "text": "*Bug Summary*\n_\"Enter summary of the problem here\"._\n\n*Steps to Reproduce*\n- Step 1:\n- Step 2:\n- Step 3:\n\n*Expected Behaviour*\n_\"Enter what should happen here.\"_\n\n*Additional Details*\n- \"Enter any other details such as examples, links to requirements, etc. \"\n- \"Any criteria that might help with fixing the problem. Attach screenshots if possible. More detail is better.</TI>\"\n\n*Workaround*\n- If there is a way to work around the problem, place that information here."
         },
         {
             "issuetype-field": "Story",
             "name": "STORY TEMPLATE",
             "projects-field": "",
-            "text": "*Story*\nAs a _type of user/persona_, \nI want _to perform some task_, \nso that I can _achieve some goal/benefit/value_.\n\n*Details*\n_Enter any details, clarifications, answers to questions, or points about implementation here._\n\n*Additional Information*\n_Enter any background or references such as Stack Overflow, MSDN, blogs, etc. that may help with developing the feature._\n\n*Acceptance Criteria*\n|condition 1|\n|condition 2|\n|condition 3|"
+            "text": "*Story*\nAs a _type of user/persona_, \nI want _to perform some task_, \nso that I can _achieve some goal/benefit/value_.\n\n*Audience*\nFor Who? (Added bonus - specify)\n\n*Details*\n_Enter any details, clarifications, answers to questions, or points about implementation here._\n\n*Additional Information*\n_Enter any background or references such as Stack Overflow, MSDN, blogs, etc. that may help with developing the feature._\n\n*Acceptance Criteria*\n|condition 1|\n|condition 2|\n|condition 3|"
         },
         {
             "issuetype-field": "Task",
